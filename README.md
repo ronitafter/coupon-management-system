@@ -8,7 +8,7 @@ date: 19/09/21
  PROJECT REQUIREMENTS
  
 MySQL Workbench version:8.0
-user name: "***", 
+user name: "****", 
 password:"****"
 url: "jdbc:mysql://localhost:3306/coupons_system";
 Eclipse IDE for Enterprise Java and Web Developers
